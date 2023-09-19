@@ -1,4 +1,5 @@
-which gcloud
+# which gcloud
+sudo rm -rf *
 sudo apt update && sudo apt upgrade -y && sudo apt install python3-pip -y
 sudo apt install python3.8-venv && sudo apt update && sudo apt upgrade -y
 sudo mkdir 1_etl && cd ~/1_etl
